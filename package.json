@@ -1,9 +1,9 @@
 {
-  "name": "notes-app",
+  "name": "notes-app-1.0",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://S-AISHWARYA79.github.io/Notes-App",
+  "homepage": "https://S-AISHWARYA79.github.io/Notes-App-1.0",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
